@@ -11,7 +11,25 @@ header {
 .main_title {
   font-size: 100px;
   font-weight: 500;
-  background-color: darkgray;
+  background-color: rgba(188, 176, 176, 0.569);
 
   display: inline-block;
+}
+
+section {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+.sub_title {
+  font-size: 60px;
+  background-color: rgba(137, 43, 226, 0.539);
+
+  display: inline-block;
+}
+
+.lorem_section {
+  font-size: 20px;
+  background-color: rgba(95, 158, 160, 0.488);
+  width: 1000px;
 }
